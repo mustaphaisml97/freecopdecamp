@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Build a Recipe Page </title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <h1>Birthday cake</h1>
+  <p>This simple cake recipe was sent home from our children's school. It is the easiest, best-tasting cake I've ever made! It's great to make with the kids, especially for cupcakes. Use your favorite frosting on top of this delicious cake. </p>
+  <h2>Ingredients</h2>
+    <ul>
+      <li>Flour </li>
+      <li>Egg </li>
+      <li>Butter </li>
+      <li>sugar </li>
+    </ul> 
+  <h2>Instructions</h2>
+    <ol> 
+      <li>2 cups white sugar</li>
+      <li>1 cup unsalted butter, room temperature </li>
+      <li>1 teaspoon vanilla extract</li>
+      <li>4 eggs, separated and divided, at  room temperature </li>
+    </ol>
+  <img src="https://cdn.freecodecamp.org/curriculum/labs/" alt="cake">   
+</body>
+</html>
