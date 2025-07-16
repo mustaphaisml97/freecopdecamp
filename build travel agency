@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+  <title>Travel Agency Page</title>
+  <meta charset="utf-8">
+  <meta name="description" content="Travel Agency Page">
+</head>
+<body>
+  <h1>Makkah Tour</h1>
+  <p>We offer the best and high-class umrah services.</p>
+  <h2>Packages</h2>
+  <p>We offer the best and high-class umrah services. We will start the process immediately when you book the Umrah packages 2025. Nowadays, it is the wish of every Muslim to perform Umrah</p>
+  <ul>
+    <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+    <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+  </ul>
+  <h2>Top Itineraries</h2>
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="anka"></a>
+    <figcaption>Anka</figcaption>
+  </figure>
+  <figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Mada"></a>
+    <figcaption>Mada</figcaption>
+  </figure>
+  <figure>
+    <a <a href="https://www.freecodecamp.org/learn" target="_blank">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Bungudu"></a>
+    <figcaption>Bungudu</figcaption>
+  </figure>
+</body>
+</html>
