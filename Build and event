@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Hub</title>
+</head>
+<body>
+    <header>
+        <h1>Event Hub</h1>
+        <nav>
+            <ul>
+                <li><a href="#upcoming-events">Upcoming Events</a></li>
+                <li><a href="#past-events">Past Events</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="upcoming-events">
+            <h2>Upcoming Events</h2>
+            <article>
+                <h3>Tech Conference 2023</h3>
+                <p>Join us for the annual technology conference featuring industry leaders and innovative workshops. Learn about the latest trends in AI, blockchain, and cloud computing.</p>
+                <p><strong>Date:</strong> November 15-17, 2023</p>
+            </article>
+            <article>
+                <h3>Community Charity Run</h3>
+                <p>Participate in our 5K charity run to support local education initiatives. All skill levels welcome!</p>
+                <p><strong>Date:</strong> December 3, 2023</p>
+            </article>
+        </section>
+
+        <section id="past-events">
+            <h2>Past Events</h2>
+            <article>
+                <h3>Summer Music Festival</h3>
+                <p>Our annual outdoor music festival featuring local bands and food trucks was a huge success!</p>
+                <p><strong>Date:</strong> July 22, 2023</p>
+                <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event1.jpg" alt="Crowd enjoying music at summer festival">
+            </article>
+            <article>
+                <h3>Art Exhibition</h3>
+                <p>Showcase of contemporary artists from the region with interactive installations.</p>
+                <p><strong>Date:</strong> May 5-7, 2023</p>
+                <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event2.jpg" alt="Art gallery exhibition space with visitors">
+            </article>
+        </section>
+    </main>
+</body>
+</html>
